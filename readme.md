@@ -1,5 +1,5 @@
 <div align="center">
-	<a href='https://www.qiniai.com' target="_blank" rel="noopener noreferrer">
+	<a href='https://www.connectai-e.com' target="_blank" rel="noopener noreferrer">
 	<img src="https://github-production-user-asset-6210df.s3.amazonaws.com/110169811/243596447-d855be1b-7d55-4b6f-aac1-2c7da5ab784c.png" width="800" >
 	</a>
 </div>
@@ -31,7 +31,7 @@
 </p>
   
 <p align='center'>
-   www.qiniai.com
+   www.connectai-e.com
 </p>
 
 
@@ -44,9 +44,12 @@
 - 专人技术支持: 配备专业部署交付人员与后期一对一维护服务
 - 同时提供在线Saas版/企业级私有部署
 
-查看更多内容: https://www.qiniai.com/
+查看更多内容: https://www.connectai-e.com
 
-企业客户咨询: 15623677720
+企业客户咨询: 15123308040
+
+<img width="300" src="https://github.com/ConnectAI-E/Feishu-OpenAI/assets/110169811/34025c94-4332-440c-a6a1-ba99b68415bd">
+<img width="300" src="https://github.com/ConnectAI-E/Feishu-OpenAI/assets/110169811/579dcc5e-49e1-4a0d-a2e6-77eaec033575">
 
 
 ## 👻 机器人功能
@@ -449,12 +452,12 @@ docker compose down
 
 ## 企联AI
 
-| <div style="width:200px">AI</div> |             <img width=110> SDK <img width=110>              |                         Application                          |
+| <div style="width:200px">AI</div> |             <img width=120> SDK <img width=120>              |                         Application                          |
 | :-------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
 |              🎒OpenAI              |    [Go-OpenAI](https://github.com/ConnectAI-E/Go-OpenAI)     | [🏅Feishu-OpenAI](https://github.com/ConnectAI-E/Feishu-OpenAI), [🎖Lark-OpenAI](https://github.com/ConnectAI-E/Lark-OpenAI), [Feishu-EX-ChatGPT](https://github.com/ConnectAI-E/Feishu-EX-ChatGPT), [🎖Feishu-OpenAI-Stream-Chatbot](https://github.com/ConnectAI-E/Feishu-OpenAI-Stream-Chatbot), [Feishu-TLDR](https://github.com/ConnectAI-E/Feishu-TLDR),[Feishu-OpenAI-Amazing](https://github.com/ConnectAI-E/Feishu-OpenAI-Amazing), [Feishu-Oral-Friend](https://github.com/ConnectAI-E/Feishu-Oral-Friend), [Feishu-OpenAI-Base-Helper](https://github.com/ConnectAI-E/Feishu-OpenAI-Base-Helper), [Feishu-Vector-Knowledge-Management](https://github.com/ConnectAI-E/Feishu-Vector-Knowledge-Management), [Feishu-OpenAI-PDF-Helper](https://github.com/ConnectAI-E/Feishu-OpenAI-PDF-Helper), [🏅Dingtalk-OpenAI](https://github.com/ConnectAI-E/Dingtalk-OpenAI), [Wework-OpenAI](https://github.com/ConnectAI-E/Wework-OpenAI), [WeWork-OpenAI-Node](https://github.com/ConnectAI-E/WeWork-OpenAI-Node), [llmplugin](https://github.com/ConnectAI-E/llmplugin) |
 |             🤖 AutoGPT             |                            ------                            | [🏅AutoGPT-Next-Web](https://github.com/ConnectAI-E/AutoGPT-Next-Web) |
 |         🎭 Stablediffusion         |                            ------                            | [🎖Feishu-Stablediffusion](https://github.com/ConnectAI-E/Feishu-Stablediffusion) |
-|           🍎 Midjourney            | [Go-Midjourney](https://github.com/ConnectAI-E/Feishu-Midjourney/tree/main/midjourney) | [🏅Feishu-Midjourney](https://github.com/ConnectAI-E/Feishu-Midjourney), [MidJourney-Web](https://github.com/ConnectAI-E/MidJourney-Web), [Dingtalk-Midjourney](https://github.com/ConnectAI-E/Dingtalk-Midjourney) |
+|           🍎 Midjourney            | [Go-Midjourney](https://github.com/ConnectAI-E/Go-Midjourney) | [🏅Feishu-Midjourney](https://github.com/ConnectAI-E/Feishu-Midjourney), [🔥MidJourney-Web](https://github.com/ConnectAI-E/MidJourney-Web), [Dingtalk-Midjourney](https://github.com/ConnectAI-E/Dingtalk-Midjourney) |
 |            🍍 文心一言             |    [Go-Wenxin](https://github.com/ConnectAI-E/Go-Wenxin)     | [Feishu-Wenxin](https://github.com/ConnectAI-E/Feishu-Wenxin), [Dingtalk-Wenxin](https://github.com/ConnectAI-E/Dingtalk-Wenxin), [Wework-Wenxin](https://github.com/ConnectAI-E/Wework-Wenxin) |
 |             💸 Minimax             |   [Go-Minimax](https://github.com/ConnectAI-E/Go-Minimax)    | [Feishu-Minimax](https://github.com/ConnectAI-E/Feishu-Minimax), [Dingtalk-Minimax](https://github.com/ConnectAI-E/Dingtalk-Minimax), [Wework-Minimax](https://github.com/ConnectAI-E/Wework-Minimax) |
 |             ⛳️ CLAUDE              |    [Go-Claude](https://github.com/ConnectAI-E/Go-Claude)     | [Feishu-Claude](https://github.com/ConnectAI-E/Feishu-Claude), [DingTalk-Claude](https://github.com/ConnectAI-E/DingTalk-Claude), [Wework-Claude](https://github.com/ConnectAI-E/Wework-Claude) |
@@ -466,19 +469,12 @@ docker compose down
 
 
 
+
+
+
 开源社区：https://github.com/ConnectAI-E
 
-产品日志：https://www.qiniai.com/logger
-
-需求追踪：[为更好的「企联AI」~ ](https://fork-way.feishu.cn/base/CvaNbmt1KaUIIOsU8xiciqylnTd)
-
-bug反馈：https://fork-way.feishu.cn/share/base/form/shrcnYcag9Jvp71dUWKkBe3wPQd
-
-企业咨询：15623677720
-
-<img width="400" src="https://www.qiniai.com/assets/contact-15c00beb.png">
-
-
+产品日志：https://www.connectai-e.com/logger
 
 
 
